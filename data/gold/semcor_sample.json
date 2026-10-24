@@ -1,0 +1,1315 @@
+{
+ "description": "Random sample of SemCor 3.0 sentences in which a target noun is sense-tagged; gold is the single SemCor synset (fine-grained).",
+ "items": [
+  {
+   "id": "semcor-bank-1",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "It stood some fifty paces from the edge of the bank .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-2",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Shares of capital stock at $ 15 each in the latter company were payable at the Bank of Manchester or at various other Vermont banks .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-3",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "He turned slowly and began to crawl back up the bank toward the rampart .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-4",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "`` If you destroy confidence in banks , you do something to the economy '' , he said .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-5",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Rep. Charles E. Hughes of Sherman , sponsor of the bill , said a failure to enact it would `` amount to making a gift out of the taxpayers ' pockets to banks , insurance and pipeline companies '' .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-6",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Participation loans are those made jointly by the SBA and banks or other private lending institutions .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-7",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "bank.n.03"
+   ],
+   "sentence": "And wherever the new thruways go up their banks are lined by neat glass and metal and colored brick light industry .",
+   "sense_group": "a long ridge or pile"
+  },
+  {
+   "id": "semcor-bank-8",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.04"
+   ],
+   "sentence": "In the ballroom below , the dark had given way to moonlight coming in through the bank of French windows .",
+   "sense_group": "an arrangement of similar objects in a r"
+  },
+  {
+   "id": "semcor-bank-9",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Dewey Lawrence , a Tyler lawyer representing the Texas Bankers Association , sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-10",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "Over on the bank , the west bank , a man stood , calling to him .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-11",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "When he remembered that he might have not signed the check , Mercer made out another for the same amount , instructing the bank to destroy the other - especially if he had happened to have absent-mindedly signed both of them .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-12",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "In 1927 his father 's business collapsed , and , rather than go bankrupt , Mercer senior turned his firm over to a bank for liquidation .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-13",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Dewey Lawrence , a Tyler lawyer representing the Texas Bankers Association , sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-14",
+   "word": "bank",
+   "surface": "banks",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "It really ought to be rebuilt , and he determined to go up and talk to the city banks about this .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-15",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "Hillman had ordered him not to leave the far bank .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-16",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "To his left , the two skiffs dented their sharp bows into the soft bank .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-17",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "depository_financial_institution.n.01"
+   ],
+   "sentence": "Interest rates are determined by the board of directors of the bank with the approval of the Farm Credit Administration .",
+   "sense_group": "a financial institution that accepts dep"
+  },
+  {
+   "id": "semcor-bank-18",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "An officer with a squad of men had been waiting on the bank .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-19",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "He improvised as he went along , completing a life-size clay figure , then bought yards of an inexpensive material from a draper , wet the lightweight cloth in a basin and covered it over with clay that Argiento brought from the bank of the Tiber , to the consistency of thick mud .",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-bank-20",
+   "word": "bank",
+   "surface": "bank",
+   "gold": [
+    "bank.n.01"
+   ],
+   "sentence": "What in the name of God was he doing , crouched in a timbered pit on the wrong bank of the river ?",
+   "sense_group": "sloping land (especially the slope besid"
+  },
+  {
+   "id": "semcor-plant-1",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "I like hay for this and apply it so that only the tops of the plants show right after a good frost .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-2",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Can your plant nurse be replaced by a trained first-aid man who works full-time on some other assignment ?",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-3",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "It is no harder to raise big , healthy , blooming plants than weak , sickly little things ; in fact it is easier .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-4",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "Root and stem tumors from sweet clover plants infected with WTV were quick-frozen in liquid nitrogen , embedded in ice , and cut at 3 - 6 | m in a cryostat maintained at - 16 ` to - 20 ` .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-5",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "A tavern , filling station , junk yard , rendering plant , or some other business may go up near enough to hurt your home or to hurt its value .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-6",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Too many plant officials are all too eager to buy a package program from an insurance company simply because it works for another plant .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-7",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Too many plant officials are all too eager to buy a package program from an insurance company simply because it works for another plant .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-8",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "The sewage flow into the treatment plant was metered and continuously recorded on 24 - hr charts .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-9",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "One year I simply set the plants in the remains of a compost pile , to which a little sand had been added , and I had the most beautiful pansies in my , or any of my neighbors ' experience .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-10",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "I put a little scoop of pulverized phosphate rock or steamed bone meal into each hole with the plant .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-11",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Can you share medical facilities and staff with neighboring plants ?",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-12",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "Remove about half the branches from each plant , leaving only the strongest with the largest buds .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-13",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "For a time following the abandonment of the local plant , electric current for Manchester was brought in from the south with an emergency tie-in with the Vermont Marble Company system to the north .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-14",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Bicycle gear-sets he had once used as the basis of the design for the Camden Cycly Company plant hung on a rope in one corner , and over his desk , next to several old and dusty hats , was a clean pair of roller skates which he occasionally used up and down front of his house .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-15",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "A group of native trees or plants which are outstanding in a particular county can be featured at the site .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-plant-16",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Do you insist that unneeded salary employees take their vacations during plant shutdowns ?",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-17",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "The truck and the car gave the manufacturer a new degree of freedom in selecting his plant site .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-18",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "acquire secret processes , technical data , inventions , patent applications , patents , licenses , land and interests in land ( including water rights ) , plants and facilities , and other property or rights by purchase , license , lease , or donation ;",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-19",
+   "word": "plant",
+   "surface": "plant",
+   "gold": [
+    "plant.n.01"
+   ],
+   "sentence": "Advice is given also on problems of plant location and plant space .",
+   "sense_group": "buildings for carrying on industrial lab"
+  },
+  {
+   "id": "semcor-plant-20",
+   "word": "plant",
+   "surface": "plants",
+   "gold": [
+    "plant.n.02"
+   ],
+   "sentence": "I like to shear half my plants at a time , leaving one half of them to blossom while the second half is getting started on its new round of blooming .",
+   "sense_group": "(botany) a living organism lacking the p"
+  },
+  {
+   "id": "semcor-bass-1",
+   "word": "bass",
+   "surface": "bass",
+   "gold": [
+    "bass.n.01"
+   ],
+   "sentence": "This absence of peaky highs and beefed-up bass not only produces greater fidelity , but it eliminates listener fatigue .",
+   "sense_group": "the lowest part of the musical range"
+  },
+  {
+   "id": "semcor-bass-2",
+   "word": "bass",
+   "surface": "bass",
+   "gold": [
+    "bass.n.02"
+   ],
+   "sentence": "For an instant John longed for the sound of the bells of Noyon-la-Sainte , the touch of his mother 's hand , the lilt of Charles 's voice in the square raftered rooms , his father 's bass tones rumbling to the canons , and the sight of the beloved bishop .",
+   "sense_group": "the lowest part in polyphonic music"
+  },
+  {
+   "id": "semcor-mouse-1",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "Two absorptions of * * f with ethyl acetate or two absorptions of * * f ( which had been passed through Dowex-2-chloride ) , NS and * * f with crown gall tissue powder , or mouse liver powder did not further improve the specificity of staining .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-2",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-3",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "The debris of his other careers was piled everywhere ; a pile of wire cages for mice from his time as a geneticist and a microscope lying on its side on the window sill , vertical steel columns wired for support to the open ceiling beams with spidery steel cantilevers jutting out into the air , masonry constructions on the floor from the time he was inventing his disastrous fireplace whose smoke would pass through a whole house , visible all the way up through wire gratings on each floor .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-4",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "After heavy rains and an onslaught of mice , snow fell on October 15 , 1825 , and remained on the ground through a winter so cold that the ice on the Red was five feet thick .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-5",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "We classify mice as `` straight haired '' or `` wavy haired '' , but a hairless mouse appears .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-6",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "In attempting to improve specificity of staining , the fluorescein labeled antisera used in both direct and indirect methods were treated in one of several ways : ( 1 ) They were passed through Dowex-2-chloride twice and treated with acetone insoluble powders ( Coons , 1958 ) prepared from mouse liver or from healthy sweet clover stems or crown gall tissue produced by Agrobacterium tumefaciens ( E. F. Smith + Townsend ) Conn , on sweet clover stems .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-7",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-8",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-9",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "In the examples above , the occurrence of a bull's-eye , a straight haired mouse , or an ace could be called a `` success '' .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-10",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-11",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "For the marksman , we study sets of five shots ( * * f ) ; for the mice , we restrict attention to litters of eight ( * * f ) ; and for the aces , we toss three dice ( * * f ) .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-12",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "We classify mice as `` straight haired '' or `` wavy haired '' , but a hairless mouse appears .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-13",
+   "word": "mouse",
+   "surface": "mouse",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "Treatment of the conjugates with ethyl acetate , and the conjugates ( which had been passed through Dowex-2-chloride ) with mouse liver powder , sweet clover crown gall tissue powder , or healthy sweet clover proteins did not satisfactorily remove nonspecifically staining substances in the conjugates .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-mouse-14",
+   "word": "mouse",
+   "surface": "mice",
+   "gold": [
+    "mouse.n.01"
+   ],
+   "sentence": "`` Such as ' sending the cat to guard the mice ' , or ' the falcon to protect the dove ' , or most terribly sharp of all , ' the human being to save humanity '' ' .",
+   "sense_group": "any of numerous small rodents typically "
+  },
+  {
+   "id": "semcor-bat-1",
+   "word": "bat",
+   "surface": "bats",
+   "gold": [
+    "bat.n.01"
+   ],
+   "sentence": "Or the surging whirling sounds of bats at night , when their black bodies dived into the blackness above and below the amber street lights .",
+   "sense_group": "nocturnal mouselike mammal with forelimb"
+  },
+  {
+   "id": "semcor-bat-2",
+   "word": "bat",
+   "surface": "bats",
+   "gold": [
+    "bat.n.01"
+   ],
+   "sentence": "Out of the church and into his big car , it tooling over the road with him driving and the headlights sweeping the pike ahead and after he hit college , his expansiveness , the quaint little pine board tourist courts , cabins really , with a cute naked light bulb in the ceiling ( unfrosted and naked as a streetlight , like the one on the corner where you used to play when you were a kid , where you watched the bats swooping in after the bugs , watching in between your bouts at hopscotch ) , a room complete with moths pinging the light and the few casual cockroaches cruising the walls , an insect Highway Patrol with feelers waving .",
+   "sense_group": "nocturnal mouselike mammal with forelimb"
+  },
+  {
+   "id": "semcor-bat-3",
+   "word": "bat",
+   "surface": "bat",
+   "gold": [
+    "bat.n.02"
+   ],
+   "sentence": "Scherer also had a big night at bat with four hits in five trips including a double , Len Boehmer also was 4 - for - 5 with two doubles and Dave Ritchie had a home run and a triple .",
+   "sense_group": "(baseball) a turn trying to get a hit"
+  },
+  {
+   "id": "semcor-spring-1",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The development of the Andrena larvae is very rapid , so that by the end of spring they have already pupated and become adults .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-2",
+   "word": "spring",
+   "surface": "springs",
+   "gold": [
+    "spring.n.03"
+   ],
+   "sentence": "There was an artificial lake just out of sight in the first stand of trees , fed by a half dozen springs that popped out of the ground above the hillside orchard .",
+   "sense_group": "a natural flow of ground water"
+  },
+  {
+   "id": "semcor-spring-3",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.02"
+   ],
+   "sentence": "Beccaria had almost stumbled on a lead to the relationship between electricity and magnetism when a discharge from a Leyden jar was sent transversally through a piece of watch spring steel making its ends magnetic .",
+   "sense_group": "a metal elastic device that returns to i"
+  },
+  {
+   "id": "semcor-spring-4",
+   "word": "spring",
+   "surface": "springs",
+   "gold": [
+    "spring.n.03"
+   ],
+   "sentence": "The area may provide good springs or opportunities for a well or be near to municipal water lines .",
+   "sense_group": "a natural flow of ground water"
+  },
+  {
+   "id": "semcor-spring-5",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "Hansen , who slugged the 1960 Oriole high of 22 homers and drove in 86 runs on a .255 freshman average , completes the Birds ' spring squad at 49 players .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-6",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "In the spring of 1942 Operation Reinhard began in Lublin .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-7",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The season , between spring and summer , belongs to life in its carefree aspect .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-8",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "With the spring rains the flow rose rapidly due to infiltration in open sewers .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-9",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "Cattle stealing and killing , again serious during the spring of 1891 , placed the land grant company officers in a perplexing position .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-10",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "But let us return , after this gruesome interlude , to our willow catkins in the spring ; there are other wild bees that command our attention .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-11",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "In late 1957 the M.P. ( Mouvement Populaire ) appeared and in the spring of 1958 the internal strains of the Istiqlal was revealed when the third Council of Government under Balafrej was formed without support from progressive elements in the party .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-12",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted 's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820 .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-13",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "My eyes were so bleary I could barely see him but there he was , a little smooth olivefaced guy in a new spring overcoat and a taffy colored fedora .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-14",
+   "word": "spring",
+   "surface": "Spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The shelter illustrated in figure 12 is based on such a room built in a new home in the Washington , D. C. area in the Spring of 1959 .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-15",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The 6 - foot 3 inch Hansen checked in close to 200 pounds , 15 pounds lighter than his reporting weight last spring .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-16",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.02"
+   ],
+   "sentence": "`` Might get there faster walkin '' ' , Lord drawled , `` seein ' as how I got a busted front spring .",
+   "sense_group": "a metal elastic device that returns to i"
+  },
+  {
+   "id": "semcor-spring-17",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "In January , 1958 , the Minister of the Interior announced that an election law was ready to be submitted to the King , the rumors of election dates appeared once again , first for spring of 1958 and later for the summer .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-18",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "The sailing in the spring of 1610 was Hudson 's fourth in four years .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-19",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "Their appearance , next spring , coincides in an almost uncanny way with the flowering of their host plants .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-spring-20",
+   "word": "spring",
+   "surface": "spring",
+   "gold": [
+    "spring.n.01"
+   ],
+   "sentence": "These cut-down plants will bud and blossom in record time and will behave just as they did in early spring .",
+   "sense_group": "the season of growth"
+  },
+  {
+   "id": "semcor-star-1",
+   "word": "star",
+   "surface": "stars",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "Demons , fairies , angels , and a host of other spiritual beings were as much a part of the experiential world of western man as were rocks and trees and stars .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-2",
+   "word": "star",
+   "surface": "stars",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "They picnicked by the pool , then lay back on the grass and looked at stars .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-3",
+   "word": "star",
+   "surface": "stars",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "Mark stopped the car and switched off the lights and they sat looking at the water , which , there being no moon out , at first could be distinguished from the sky only by an absence of stars .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-4",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "ace.n.03"
+   ],
+   "sentence": "Ramsey has a thing or two to mutter about himself , for the Dallas defensive unit turned in another splendid effort against Denver , and the Texans were able to whip the dangerous Broncs without the fullbacking of a top star , Jack Spikes , though he did the team 's place-kicking while nursing a knee injury .",
+   "sense_group": "someone who is dazzlingly skilled in any"
+  },
+  {
+   "id": "semcor-star-5",
+   "word": "star",
+   "surface": "Star",
+   "gold": [
+    "ace.n.03"
+   ],
+   "sentence": "A few years ago a `` Timex All Star Jazz Show '' offered a broad range of styles , ranging from Lionel Hampton 's big band to the free-wheeling Dukes of Dixieland .",
+   "sense_group": "someone who is dazzlingly skilled in any"
+  },
+  {
+   "id": "semcor-star-6",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "Upon reaching the desired speed , the automatic equipment would cut off the drive , and the silent but not empty vessel would hurl towards the star which was its journey 's end .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-7",
+   "word": "star",
+   "surface": "stars",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "Below the moon splashed world rolled away to insurmountable white peaks ; above him the deep blue sky glittered with stars .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-8",
+   "word": "star",
+   "surface": "stars",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "It was a delayed moon , but now the sky had cleared of scudding black and the stars sugared the silver-gray sky .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-9",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "ace.n.03"
+   ],
+   "sentence": "Certainly its composer was an ascending star on a new world horizon .",
+   "sense_group": "someone who is dazzlingly skilled in any"
+  },
+  {
+   "id": "semcor-star-10",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "Many years later , the photon counting apparatus in the nose of the ship would determine that the star was close enough to actuate deceleration .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-star-11",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "star.n.04"
+   ],
+   "sentence": "The stage had been empty , except for Harry Hawk , doing his star monologue .",
+   "sense_group": "an actor who plays a principal role"
+  },
+  {
+   "id": "semcor-star-12",
+   "word": "star",
+   "surface": "star",
+   "gold": [
+    "star.n.01"
+   ],
+   "sentence": "I can n't tell you now the distance in light years or what star this was , though you can see it with the naked eye at night in this hemisphere .",
+   "sense_group": "(astronomy) a celestial body of hot gase"
+  },
+  {
+   "id": "semcor-cell-1",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "If cell * * f has not previously been assigned as the information cell of a form in the text form list , it is now assigned as the information cell of * * f .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-2",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "If cell * * f is an information cell , it and any information cells in the Y-region that have been linked to * * f each contain an address in the W-region where a potentially matching form is stored .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-3",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.02"
+   ],
+   "sentence": "No antigen was detectable in certain dark spherical areas in most cells .",
+   "sense_group": "(biology) the basic structural and funct"
+  },
+  {
+   "id": "semcor-cell-4",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "The light was filtered by the soft glass window of the thermostat thus ensuring that only light absorbed by the chlorine and not by the carbon tetrachloride could enter the reaction cell .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-5",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "Only the assignment of the information cells is important .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-6",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "Following reaction the cells were scratched with a file and opened under a 20 % aqueous sodium iodide solution .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-7",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.02"
+   ],
+   "sentence": "In all cases the activity against * * f cells was spread over a wider area than that with * * f cells , regardless of the type of test ( saline , albumin , indirect Coombs ) used for comparison .",
+   "sense_group": "(biology) the basic structural and funct"
+  },
+  {
+   "id": "semcor-cell-8",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.02"
+   ],
+   "sentence": "A study of the distribution of WTV antigen within the pseudophloem cells indicates that it is irregularly distributed in the cytoplasm .",
+   "sense_group": "(biology) the basic structural and funct"
+  },
+  {
+   "id": "semcor-cell-9",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "The cell * * f becomes the second information cell in the chain and is assigned as the information cell of * * f .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-10",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "Thus , when more than one distinct form leads to a particular cell in the X-region , a chain of information cells must be created to accommodate the forms , one cell in the chain for each form .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-11",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "The round cells were reproducibly positioned in the light beam which entered the thermostated mineral oil bath through a window .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-12",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "Each information cell in the chain contains the address of the Y-cell where the form to which it is assigned is stored .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-13",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "But they are still enclosed in their larval cells and remain there throughout the summer , fall , and winter .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-14",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "The address * * f is stored in the cell * * f .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-15",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "When an occurrence * * f is isolated during text reading , a random memory address * * f , the address of a cell in the X-region , is computed from the form of * * f .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-16",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "If * * f leads to an address * * f that is equal to the address computed from * * f , even though * * f does not match * * f , the chain of information cells is extended from * * f by storing the address of the next available cell in the Y-region , * * f , in * * f .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-17",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "The final step merely uses the table of dictionary usage to select the dictionary information that pertains to each form matched in the text form list , and uses the list of information cells recorded in text order to attach the appropriate information to each occurrence in text .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-cell-18",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.02"
+   ],
+   "sentence": "Within the pseudophloem cells the distribution of WTV antigen was irregular in the cytoplasm .",
+   "sense_group": "(biology) the basic structural and funct"
+  },
+  {
+   "id": "semcor-cell-19",
+   "word": "cell",
+   "surface": "cells",
+   "gold": [
+    "cell.n.02"
+   ],
+   "sentence": "In fact agglutination of * * f cells in saline could be produced by the insoluble material from sera containing `` only '' incomplete antibody activity .",
+   "sense_group": "(biology) the basic structural and funct"
+  },
+  {
+   "id": "semcor-cell-20",
+   "word": "cell",
+   "surface": "cell",
+   "gold": [
+    "cell.n.01"
+   ],
+   "sentence": "A third cell can be added by storing the address of another Y-cell in * * f ; similarly , as many cells are added as are required .",
+   "sense_group": "any small compartment"
+  },
+  {
+   "id": "semcor-court-1",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman Act allegations .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-2",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "But in any event , I submit that the power to depose belongs to Congress , not to this Court .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-3",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "if a receiver or trustee for any such partnership or corporation , duly appointed by a court of competent jurisdiction in the United States , makes an assignment of the claim , or any part thereof , with respect to which an award is made , or makes an assignment of such award , or any part thereof , payment shall be made to the assignee , as his interest may appear ; and in the case of any assignment of an award , or any part thereof , which is made in writing and duly acknowledged and filed , after such award is certified to the Secretary of the Treasury , payment may , in the discretion of the Secretary of the Treasury , be made to the assignee , as his interest may appear .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-4",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The jury said it found the court `` has incorporated into its operating procedures the recommendations '' of two previous grand juries , the Atlanta Bar Association and an interim citizens committee .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-5",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The sole guidance given the Court for discharging the task committed to it was this : `` The judgment must therefore be reversed and the cause remanded to the District Court for a determination , after further hearing , of the equitable relief necessary and appropriate in the public interest to eliminate the effects of the acquisition offensive to the statute .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-6",
+   "word": "court",
+   "surface": "courts",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "States were free to enact , within broad though ( perhaps ) determinate limits , their own rules as to the application of foreign law by their courts , to vary the law merchant , and to enact legislation with regard to many claims arising on the high seas .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-7",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The judge became ill just as the Colfax District Court convened , no substitute was brought in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine die after sitting a few days instead of the usual three weeks .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-8",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "By making inroads in the name of law enforcement into the protection which Congress has afforded to the marriage relationship , the Court today continues in the path charted by the recent decision in Wyatt v. United States , 362 U. S. 525 , where the Court held that , under the circumstances of that case , a wife could be compelled to testify against her husband over her objection .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-9",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.03"
+   ],
+   "sentence": "There are other good representations of peasants and people of the court by actors who are finely costumed and magnificently photographed in this last of the Russian films to reach this country in the program of joint cultural exchange .",
+   "sense_group": "the sovereign and his advisers who are t"
+  },
+  {
+   "id": "semcor-court-10",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "At the outset , the Government 's spokesman explained that counsel for the Government and for du Pont had already held preliminary discussions with a view to arriving at a relief plan that both sides could recommend to the court .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-11",
+   "word": "court",
+   "surface": "courts",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The bond issue will go to the state courts for a friendly test suit to test the validity of the act , and then the sales will begin and contracts let for repair work on some of Georgia 's most heavily traveled highways .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-12",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "Here , before the court ?",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-13",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "Everyone with a personal or group tragedy to relate had to be given his day in court as in some vast collective dirge .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-14",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.02"
+   ],
+   "sentence": "And she felt amply rewarded for her suffering when the evidence of Lee 's quack shenanigans , gathered by the tape recorder under her friend 's clothing , proved adequate in court for convicting Franklin D. Lee .",
+   "sense_group": "a room in which a lawcourt sits"
+  },
+  {
+   "id": "semcor-court-15",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.02"
+   ],
+   "sentence": "When a witness at court was asked if he had been kicked in the ensuing rumpus , he replied , `` No , it was in the stomach '' .",
+   "sense_group": "a room in which a lawcourt sits"
+  },
+  {
+   "id": "semcor-court-16",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The purpose of this provision was thus explained in the Court 's opinion : `` Section 7 is designed to arrest in its incipiency not only the substantial lessening of competition from the acquisition by one corporation of the whole or any part of the stock of a competing corporation , but also to arrest in their incipiency restraints or monopolies in a relevant market which , as a reasonable probability , appear at the time of suit likely to result from the acquisition by one corporation of all or any part of the stock of any other corporation .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-17",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "The Court adopted this procedure with an appropriate time schedule for carrying it out .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-18",
+   "word": "court",
+   "surface": "Court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "By making inroads in the name of law enforcement into the protection which Congress has afforded to the marriage relationship , the Court today continues in the path charted by the recent decision in Wyatt v. United States , 362 U. S. 525 , where the Court held that , under the circumstances of that case , a wife could be compelled to testify against her husband over her objection .",
+   "sense_group": "an assembly (including one or more judge"
+  },
+  {
+   "id": "semcor-court-19",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.04"
+   ],
+   "sentence": "`` By winning against Bradley , Kentucky and Notre Dame on those teams ' home courts , they showed that the home court advantage can be overcome anywhere and that it doesn 's take a super team to do it '' .",
+   "sense_group": "a specially marked horizontal area withi"
+  },
+  {
+   "id": "semcor-court-20",
+   "word": "court",
+   "surface": "court",
+   "gold": [
+    "court.n.01"
+   ],
+   "sentence": "Counsel for the Government invited du Pont 's views on this proposal before recommending a specific program , but stated that if the court desired , or if counsel for du Pont thought further discussion would not be profitable , the Government was prepared to submit a plan within thirty days .",
+   "sense_group": "an assembly (including one or more judge"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "handwritten": {
+  "items": 60,
+  "methods": {
+   "random": {
+    "accuracy": 0.2557,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.2557
+   },
+   "mfs": {
+    "accuracy": 0.4167,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.4167
+   },
+   "nltk_lesk": {
+    "accuracy": 0.4667,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.4667
+   },
+   "simplified_lesk": {
+    "accuracy": 0.7833,
+    "decided": 0.6,
+    "accuracy_when_decided": 0.9167
+   },
+   "extended_lesk": {
+    "accuracy": 0.9,
+    "decided": 0.8667,
+    "accuracy_when_decided": 0.9423
+   },
+   "wup_context": {
+    "accuracy": 0.4667,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.4667
+   }
+  }
+ },
+ "semcor": {
+  "items": 131,
+  "methods": {
+   "random": {
+    "accuracy": 0.1592,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.1592
+   },
+   "mfs": {
+    "accuracy": 0.7023,
+    "decided": 1.0,
+    "accuracy_when_decided": 0.7023
+   },
+   "nltk_lesk": {
+    "accuracy": 0.2824,
+    "decided": 0.9847,
+    "accuracy_when_decided": 0.2713
+   },
+   "simplified_lesk": {
+    "accuracy": 0.5725,
+    "decided": 0.374,
+    "accuracy_when_decided": 0.3265
+   },
+   "extended_lesk": {
+    "accuracy": 0.6412,
+    "decided": 0.7328,
+    "accuracy_when_decided": 0.5833
+   },
+   "wup_context": {
+    "accuracy": 0.2672,
+    "decided": 0.9924,
+    "accuracy_when_decided": 0.2615
+   }
+  }
+ }
+}

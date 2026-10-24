@@ -1,0 +1,69 @@
+word,rank,synset,pos,lemmas,definition,examples,semcor_count,hypernym,lexname
+bank,1,bank.n.01,noun,bank,sloping land (especially the slope beside a body of water),they pulled the canoe up on the bank | he sat on the bank of the river and watched the currents,25,slope.n.01,noun.object
+bank,2,depository_financial_institution.n.01,noun,"depository financial institution, bank, banking concern, banking company",a financial institution that accepts deposits and channels the money into lending activities,he cashed a check at the bank | that bank holds the mortgage on my home,20,financial_institution.n.01,noun.group
+bank,3,bank.n.03,noun,bank,a long ridge or pile,a huge bank of earth,2,ridge.n.01,noun.object
+bank,4,bank.n.04,noun,bank,an arrangement of similar objects in a row or in tiers,he operated a bank of switches,1,array.n.01,noun.group
+bank,5,bank.n.05,noun,bank,a supply or stock held in reserve for future use (especially in emergencies),,0,reserve.n.02,noun.possession
+bank,6,bank.n.06,noun,bank,the funds held by a gambling house or the dealer in some gambling games,he tried to break the bank at Monte Carlo,0,funds.n.01,noun.possession
+bank,7,bank.n.07,noun,"bank, cant, camber",a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force,,0,slope.n.01,noun.object
+bank,8,savings_bank.n.02,noun,"savings bank, coin bank, money box, bank",a container (usually with a slot in the top) for keeping money at home,the coin bank was empty,0,container.n.01,noun.artifact
+bank,9,bank.n.09,noun,"bank, bank building",a building in which the business of banking transacted,the bank is on the corner of Nassau and Witherspoon,0,depository.n.01,noun.artifact
+bank,10,bank.n.10,noun,bank,a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning),the plane went into a steep bank,0,flight_maneuver.n.01,noun.act
+plant,1,plant.n.01,noun,"plant, works, industrial plant",buildings for carrying on industrial labor,they built a large plant to manufacture automobiles,68,building_complex.n.01,noun.artifact
+plant,2,plant.n.02,noun,"plant, flora, plant life",(botany) a living organism lacking the power of locomotion,,37,organism.n.01,noun.Tops
+plant,3,plant.n.03,noun,plant,an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience,,0,actor.n.01,noun.person
+plant,4,plant.n.04,noun,plant,something planted secretly for discovery by another,the police used a plant to trick the thieves | he claimed that the evidence against him was a plant,0,contrivance.n.03,noun.cognition
+bass,1,bass.n.01,noun,bass,the lowest part of the musical range,,2,pitch.n.01,noun.attribute
+bass,2,bass.n.02,noun,"bass, bass part",the lowest part in polyphonic music,,1,part.n.11,noun.communication
+bass,3,bass.n.03,noun,"bass, basso",an adult male singer with the lowest voice,,0,singer.n.01,noun.person
+bass,4,sea_bass.n.01,noun,"sea bass, bass",the lean flesh of a saltwater fish of the family Serranidae,,0,saltwater_fish.n.01,noun.food
+bass,5,freshwater_bass.n.01,noun,"freshwater bass, bass",any of various North American freshwater fish with lean flesh (especially of the genus Micropterus),,0,freshwater_fish.n.01,noun.food
+bass,6,bass.n.06,noun,"bass, bass voice, basso",the lowest adult male singing voice,,0,singing_voice.n.01,noun.communication
+bass,7,bass.n.07,noun,bass,the member with the lowest range of a family of musical instruments,,0,musical_instrument.n.01,noun.artifact
+bass,8,bass.n.08,noun,bass,nontechnical name for any of numerous edible marine and freshwater spiny-finned fishes,,0,percoid_fish.n.01,noun.animal
+crane,1,crane.n.01,noun,"Crane, Stephen Crane",United States writer (1871-1900),,0,,noun.person
+crane,2,crane.n.02,noun,"Crane, Hart Crane, Harold Hart Crane",United States poet (1899-1932),,0,,noun.person
+crane,3,grus.n.01,noun,"Grus, Crane",a small constellation in the southern hemisphere near Phoenix,,0,,noun.object
+crane,4,crane.n.04,noun,crane,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis,,0,lifting_device.n.01,noun.artifact
+crane,5,crane.n.05,noun,crane,large long-necked wading bird of marshes and plains in many parts of the world,,0,wading_bird.n.01,noun.animal
+mouse,1,mouse.n.01,noun,mouse,any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails,,14,rodent.n.01,noun.animal
+mouse,2,shiner.n.01,noun,"shiner, black eye, mouse",a swollen bruise caused by a blow to the eye,,1,bruise.n.01,noun.state
+mouse,3,mouse.n.03,noun,mouse,person who is quiet or timid,,0,person.n.01,noun.person
+mouse,4,mouse.n.04,noun,"mouse, computer mouse",a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad,a mouse takes much more room than a trackball,0,electronic_device.n.01,noun.artifact
+bat,1,bat.n.01,noun,"bat, chiropteran",nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate,,2,placental.n.01,noun.animal
+bat,2,bat.n.02,noun,"bat, at-bat",(baseball) a turn trying to get a hit,he was at bat when it happened | he got four hits in four at-bats,2,turn.n.03,noun.act
+bat,3,squash_racket.n.01,noun,"squash racket, squash racquet, bat",a small racket with a long handle used for playing squash,,0,racket.n.04,noun.artifact
+bat,4,cricket_bat.n.01,noun,"cricket bat, bat",the club used in playing cricket,a cricket bat has a narrow handle and a broad flat end for hitting,0,cricket_equipment.n.01,noun.artifact
+bat,5,bat.n.05,noun,bat,a club used for hitting a ball in various games,,0,club.n.03,noun.artifact
+spring,1,spring.n.01,noun,"spring, springtime",the season of growth,the emerging buds were a sure sign of spring | he will hold office until the spring of next year,29,season.n.02,noun.time
+spring,2,spring.n.02,noun,spring,a metal elastic device that returns to its shape or position when pushed or pulled or pressed,the spring was broken,4,elastic_device.n.01,noun.artifact
+spring,3,spring.n.03,noun,"spring, fountain, outflow, outpouring, natural spring",a natural flow of ground water,,3,geological_formation.n.01,noun.object
+spring,4,spring.n.04,noun,spring,a point at which water issues forth,,1,beginning.n.04,noun.location
+spring,5,give.n.01,noun,"give, spring, springiness",the elasticity of something that can be stretched and returns to its original length,,2,elasticity.n.01,noun.attribute
+spring,6,leap.n.01,noun,"leap, leaping, spring, saltation, bound, bounce","a light, self-propelled movement upwards or forwards",,8,jump.n.06,noun.act
+star,1,star.n.01,noun,star,(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior,,8,celestial_body.n.01,noun.object
+star,2,ace.n.03,noun,"ace, adept, champion, sensation, maven, mavin, virtuoso, genius, hotshot, star, superstar, whiz, whizz, wizard, wiz",someone who is dazzlingly skilled in any field,,12,expert.n.01,noun.person
+star,3,star.n.03,noun,star,any celestial body visible (as a point of light) from the Earth at night,,3,celestial_body.n.01,noun.object
+star,4,star.n.04,noun,"star, principal, lead",an actor who plays a principal role,,2,actor.n.01,noun.person
+star,5,star.n.05,noun,star,a plane figure with 5 or more points; often used as an emblem,,0,plane_figure.n.01,noun.shape
+star,6,headliner.n.01,noun,"headliner, star",a performer who receives prominent billing,,0,performer.n.01,noun.person
+star,7,asterisk.n.01,noun,"asterisk, star",a star-shaped character * used in printing,,2,character.n.08,noun.communication
+star,8,star_topology.n.01,noun,"star topology, star",the topology of a network whose components are connected to a hub,,0,topology.n.04,noun.cognition
+cell,1,cell.n.01,noun,cell,any small compartment,the cells of a honeycomb,71,compartment.n.01,noun.artifact
+cell,2,cell.n.02,noun,cell,(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals,,44,living_thing.n.01,noun.Tops
+cell,3,cell.n.03,noun,"cell, electric cell",a device that delivers an electric current as the result of a chemical reaction,,1,electrical_device.n.01,noun.artifact
+cell,4,cell.n.04,noun,"cell, cadre",a small unit serving as part of or as the nucleus of a larger political movement,,1,political_unit.n.01,noun.group
+cell,5,cellular_telephone.n.01,noun,"cellular telephone, cellular phone, cellphone, cell, mobile phone","a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",,0,radiotelephone.n.02,noun.artifact
+cell,6,cell.n.06,noun,"cell, cubicle",small room in which a monk or nun lives,,0,room.n.01,noun.artifact
+cell,7,cell.n.07,noun,"cell, jail cell, prison cell",a room where a prisoner is kept,,0,room.n.01,noun.artifact
+court,1,court.n.01,noun,"court, tribunal, judicature",an assembly (including one or more judges) to conduct judicial business,,43,assembly.n.04,noun.group
+court,2,court.n.02,noun,"court, courtroom",a room in which a lawcourt sits,television cameras were admitted in the courtroom,5,room.n.01,noun.artifact
+court,3,court.n.03,noun,"court, royal court",the sovereign and his advisers who are the governing power of a state,,3,government.n.01,noun.group
+court,4,court.n.04,noun,court,a specially marked horizontal area within which a game is played,players had to reserve a court in advance,2,playing_field.n.02,noun.artifact
+court,5,court.n.05,noun,"Court, Margaret Court",Australian woman tennis player who won many major championships (born in 1947),,0,,noun.person
+court,6,court.n.06,noun,"court, royal court",the family and retinue of a sovereign or prince,,0,cortege.n.02,noun.group
+court,7,motor_hotel.n.01,noun,"motor hotel, motor inn, motor lodge, tourist court, court",a hotel for motorists; provides direct access from rooms to parking area,,1,hotel.n.01,noun.artifact
+court,8,court.n.08,noun,"court, lawcourt, court of law, court of justice",a tribunal that is presided over by a magistrate or by one or more judges who administer justice according to the laws,,0,court.n.01,noun.artifact
+court,9,court.n.09,noun,court,the residence of a sovereign or nobleman,the king will visit the duke's court,0,residence.n.02,noun.artifact
+court,10,court.n.10,noun,"court, courtyard",an area wholly or partly surrounded by walls or buildings,the house was built around an inner court,2,area.n.05,noun.artifact
+court,11,court.n.11,noun,"court, homage",respectful deference,pay court to the emperor,0,deference.n.01,noun.act
