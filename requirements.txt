@@ -1,0 +1,9 @@
+# WSD__Net - dependencies
+#
+# WordNet 3.0 itself is bundled in data/nltk_data/, so nothing is downloaded
+# at run time and the app works offline.
+
+nltk>=3.8
+pandas>=2.0
+streamlit>=1.49
+altair>=5.0
